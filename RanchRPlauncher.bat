@@ -1,5 +1,4 @@
 @echo off
-:
 REM To make life easier when i wanna play RedM i Created this small batch file
 REM simply check if a process is running if not it runs it
 color 2
