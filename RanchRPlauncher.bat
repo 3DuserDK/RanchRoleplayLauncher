@@ -7,6 +7,7 @@ echo:
 echo:
 echo             --------------------------------
 echo             RedM Ranchroleplay Launcher 0.9
+echo                    Made by Who_Cares
 echo             --------------------------------
 echo:
 echo:
@@ -36,6 +37,7 @@ echo:
 echo:
 echo             --------------------------------
 echo             RedM Ranchroleplay Launcher 0.9
+echo                    Made by Who_Cares
 echo             --------------------------------
 echo:
 echo:
