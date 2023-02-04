@@ -11,8 +11,7 @@ In the case that either Discord, Teamspeak, Rockstar, Steam or RedM is not insta
 
 You can either download the file or just copy paste it and make a .bat file called RanchRolelayLauncher.bat
 
-
-
+I recommend you copy the text and make a .bat file on your Desktop.
 
 
 The file is free to use and or edit, however you may not change made by Who_Cares
